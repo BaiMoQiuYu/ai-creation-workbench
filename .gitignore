@@ -1,0 +1,16 @@
+workbench.local.json
+.env
+.env.*
+*.exe
+*.dll
+*.pdb
+*.db*
+*.sqlite*
+*.log
+*.pem
+*.pfx
+*.zip
+__pycache__/
+workbench-output/
+output/
+logs/

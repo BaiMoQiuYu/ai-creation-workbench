@@ -1,0 +1,18 @@
+{
+  "output_dir": "",
+  "python": "python.exe",
+  "comfy_url": "http://127.0.0.1:8188/",
+  "comfy_root": "",
+  "comfy_python": "pythonw.exe",
+  "comfy_service": "",
+  "model_worker": "",
+  "image_gallery": "",
+  "voice_url": "",
+  "voice_project": "",
+  "voice_logs": "",
+  "video_url": "",
+  "video_project": "",
+  "music_reports": "",
+  "desktop_agent": "",
+  "agent_client": ""
+}
